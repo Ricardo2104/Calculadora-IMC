@@ -1,0 +1,9 @@
+C:\Users\Ricar\Documents\Visual Studio 2015\Projects\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\Ricar\Documents\Visual Studio 2015\Projects\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\Ricar\Documents\Visual Studio 2015\Projects\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\Ricar\Documents\Visual Studio 2015\Projects\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.Form1.resources
+C:\Users\Ricar\Documents\Visual Studio 2015\Projects\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.Properties.Resources.resources
+C:\Users\Ricar\Documents\Visual Studio 2015\Projects\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.GenerateResource.Cache
+C:\Users\Ricar\Documents\Visual Studio 2015\Projects\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\Ricar\Documents\Visual Studio 2015\Projects\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb
+C:\Users\Ricar\Documents\Visual Studio 2015\Projects\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csprojResolveAssemblyReference.cache
